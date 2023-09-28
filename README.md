@@ -29,7 +29,7 @@
 </p>
 
   <p align="center">
-    Has a user-friendly interface to nuke discord servers with.
+    Very easy setup script to start scraping claimable replit usernames.
     <br />
     <br />
     <a href="https://github.com/Jakee8718/Replit-Username-Scraper">Report Bug</a>
